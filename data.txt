@@ -1,0 +1,6 @@
+China,Beijing
+Egypt,Cairo
+Poland,Warsaw
+Portugal,Lisbon
+France,Paris
+Czech Republik,Prag
