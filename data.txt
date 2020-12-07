@@ -4,3 +4,17 @@ Poland,Warsaw
 Portugal,Lisbon
 France,Paris
 Czech Republik,Prag
+Spain,Madrid
+Italy,Rome
+Austria,Vien
+Netherlands,Amsterdam
+Belgy,Brussels
+Germany,Berlin
+Andorra,Andorra
+Greece,Athens
+Serbia,Belgrade
+Switzerland,Bern
+Slovakia,Bratislava
+Romania,Bucharest
+Hungary,Budapest
+Moldova,Chrisinau
