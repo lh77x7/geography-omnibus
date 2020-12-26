@@ -1,1 +1,1 @@
-# geography_omnibus
+# geography-omnibus
